@@ -6,7 +6,7 @@
 
 _Build an Tour section app ..._
 
-- Project Live Link : []()
+- Project Live Link : [https://basic-tour-app-section-react-js-project.vercel.app/](https://basic-tour-app-section-react-js-project.vercel.app/)
 
 ### Technology Used -
 
@@ -27,6 +27,6 @@ _Build an Tour section app ..._
 9. Project Testing
 10. Github & Vercel utilisation
 
-- Project Live Link : []()
+- Project Live Link : [https://basic-tour-app-section-react-js-project.vercel.app/](https://basic-tour-app-section-react-js-project.vercel.app/)
 
 ### - Developed by [Aniruddha](https://github.com/AniruddhaDas1) | CoderX Community | [Send Message to WhatsApp](https://wa.me/9123987124)
